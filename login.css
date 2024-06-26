@@ -170,3 +170,10 @@ a {
   text-decoration: none;
   font-style: normal;
 }
+
+/* @media (max-width: 488px) {
+  .form {
+    width: fit-content;
+    margin: auto;
+  }
+} */
